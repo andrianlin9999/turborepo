@@ -41,11 +41,6 @@ Turborepo is used by the world's leading companies. Check out the [Turborepo Sho
 
 Follow [@turborepo](https://x.com/turborepo) on X for project updates.
 
-## Authors
-
-**Turborepo**
-
-- Jared Palmer ([@jaredpalmer](https://x.com/jaredpalmer))
 
 ## Security
 
